@@ -1,0 +1,4 @@
+﻿  UnitTestfor5.1.cpp
+D:\Катерина\1 семестр\Алгоритмізація і програмування\lab5.1\UnitTestfor5.1\UnitTestfor5.1.cpp(17,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+     Creating library D:\Катерина\1 семестр\Алгоритмізація і програмування\lab5.1\Debug\UnitTestfor5.1.lib and object D:\Катерина\1 семестр\Алгоритмізація і програмування\lab5.1\Debug\UnitTestfor5.1.exp
+  UnitTestfor5.1.vcxproj -> D:\Катерина\1 семестр\Алгоритмізація і програмування\lab5.1\Debug\UnitTestfor5.1.dll
